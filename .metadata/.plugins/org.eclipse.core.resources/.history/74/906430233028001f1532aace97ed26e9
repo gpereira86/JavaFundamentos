@@ -1,0 +1,8 @@
+
+public class Juridica {
+	
+	public String cnpj;
+	public String inscricaoEstadual;
+	
+
+}

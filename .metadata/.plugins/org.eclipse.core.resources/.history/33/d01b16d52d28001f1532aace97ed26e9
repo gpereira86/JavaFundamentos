@@ -1,0 +1,8 @@
+
+public class Pessoa {
+
+	public String nome, cpf, cnpj, identidade, inscricaoEstadual;
+	public String situacaoPessoa;
+	
+	
+}

@@ -1,0 +1,22 @@
+
+public class Pessoas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		Pessoa pes = new Pessoa();
+		pes.nome = "JOÃO";
+		pes.cpf = "11111111111";
+		pes.identidade = "1560455";
+		pes.situacaoPessoa = "A";
+		
+		pes.cnpj = "212121212121";
+		pes.nome = "CASAS DO SILVA";
+		pes.inscricaoEstadual = "65454654";
+		pes.situacaoPessoa = "I";
+		
+				
+	}
+
+}

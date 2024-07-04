@@ -1,0 +1,14 @@
+
+public class Pessoa {
+
+	public String nome, cpf, cnpj, identidade, inscricaoEstadual;
+	public String situacaoPessoa;
+	@Override
+	public String toString() {
+		return "Pessoa [nome=" + nome + ", cpf=" + cpf + ", cnpj=" + cnpj + ", identidade=" + identidade
+				+ ", inscricaoEstadual=" + inscricaoEstadual + ", situacaoPessoa=" + situacaoPessoa + "]";
+	}
+	
+	
+	
+}

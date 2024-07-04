@@ -1,0 +1,6 @@
+
+abstract public class Mamifero {
+	
+	public abstract double cotaDiariaLeita();
+
+}
