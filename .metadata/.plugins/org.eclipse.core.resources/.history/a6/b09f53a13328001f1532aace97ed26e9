@@ -1,7 +1,0 @@
-public class Elefante extends Mamifero {
-   
-    public double cotaDiariaLeita() {
-       
-        return 10.5;
-    }
-}
